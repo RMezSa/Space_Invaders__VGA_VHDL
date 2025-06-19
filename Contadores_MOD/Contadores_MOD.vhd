@@ -1,13 +1,3 @@
-------------------------------------------
---	 	Materia: Diseño con lógica programable
---		Reto Space Invaders
---		INTEGRANTES:
---		Roberd Otoniel Meza Sainz
--- 	Miguel Bandian Reyes Serrato
---
-------------------------------------------
-
-
 --Entidad en la que se integran ambos contadores, el contador módulo 525 y el contador módulo 800
 library ieee;
 use ieee.std_logic_1164.ALL;

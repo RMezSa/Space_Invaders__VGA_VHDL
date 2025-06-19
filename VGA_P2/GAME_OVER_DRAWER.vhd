@@ -1,12 +1,3 @@
-------------------------------------------
---	 	Materia: Diseño con lógica programable
---		Reto Space Invaders
---		INTEGRANTES:
---		Roberd Otoniel Meza Sainz
--- 	Miguel Bandian Reyes Serrato
---
-------------------------------------------
-
 --Dibujador de GAME OVER en caso de tener que desplegarse en pantalla.
 
 library ieee;

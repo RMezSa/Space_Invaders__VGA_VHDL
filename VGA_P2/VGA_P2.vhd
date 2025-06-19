@@ -1,12 +1,3 @@
-------------------------------------------
---	 	Materia: Diseño con lógica programable
---		Reto Space Invaders
---		INTEGRANTES:
---		Roberd Otoniel Meza Sainz
--- 	Miguel Bandian Reyes Serrato
---
-------------------------------------------
-
 --Top level entity, en la cual se integran todos los componentes desarrollados.
 library ieee;
 use ieee.std_logic_1164.ALL;

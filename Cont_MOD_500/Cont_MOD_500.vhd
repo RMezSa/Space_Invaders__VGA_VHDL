@@ -1,12 +1,3 @@
-------------------------------------------
---	 	Materia: Diseño con lógica programable
---		Reto Space Invaders
---		INTEGRANTES:
---		Roberd Otoniel Meza Sainz
--- 	Miguel Bandian Reyes Serrato
---
-------------------------------------------
-
 --Contador Modulo 525
 library ieee;
 use ieee.std_logic_1164.ALL;

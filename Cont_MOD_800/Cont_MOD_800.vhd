@@ -1,11 +1,3 @@
-------------------------------------------
---	 	Materia: Diseño con lógica programable
---		Reto Space Invaders
---		INTEGRANTES:
---		Roberd Otoniel Meza Sainz
--- 	Miguel Bandian Reyes Serrato
---
-------------------------------------------
 
 -- Contador modulo 800
 library ieee;

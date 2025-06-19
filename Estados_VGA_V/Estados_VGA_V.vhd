@@ -1,12 +1,3 @@
-------------------------------------------
---	 	Materia: Diseño con lógica programable
---		Reto Space Invaders
---		INTEGRANTES:
---		Roberd Otoniel Meza Sainz
--- 	Miguel Bandian Reyes Serrato
---
-------------------------------------------
-
 -- Maquina de estados vertical para VGA
 library ieee;
 use ieee.std_logic_1164.ALL;

@@ -1,12 +1,3 @@
-------------------------------------------
---	 	Materia: Diseño con lógica programable
---		Reto Space Invaders
---		INTEGRANTES:
---		Roberd Otoniel Meza Sainz
--- 	Miguel Bandian Reyes Serrato
---
-------------------------------------------
-
 --Package drawer para dibujar a los aliens mediante el uso de condicionales dentro de un recuadro de 28x26 pixeles
 library ieee;
 use ieee.std_logic_1164.all;
