@@ -1,0 +1,27 @@
+# Quartus
+db/
+incremental_db/
+output_files/
+*.rpt
+*.qws
+*.bak
+*.qdf
+*.cmp
+*.ppf
+*.smsg
+*.vhd.bak
+*.vwf
+
+# ModelSim / GHDL
+work/
+*.log
+transcript
+*.wlf
+*.vcd
+*.vvp
+*.ghw
+*.o
+*.out
+
+# Otros
+*.tmp
