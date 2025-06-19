@@ -1,5 +1,3 @@
---Roberd Otoniel Meza Sainz
--- A01801490
 -- Descripción de la función del archivo VHD
 
 library ieee;
